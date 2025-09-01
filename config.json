@@ -1,0 +1,11 @@
+{
+  "folders": {
+    "documents": "C:\\Users\\bill\\Documents",
+    "reports": "C:\\Support",
+    "desktop": "C:\\Users\\bill\\Desktop",
+    "backup_scripts": "C:\\support"
+  },
+  "allowedExtensions": [".txt", ".md", ".pdf", ".docx", ".xlsx", ".csv", ".json", ".xml", ".log", ".ps1"],
+  "maxFileSize": 10485760,
+  "description": "File Server MCP - Exposes documents from specific folders through configurable access"
+}
